@@ -89,7 +89,7 @@ ga_domain: fengjinshan.me
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "一只喜欢狗狗猫猫，做饭的程序猿"
-sidebar-avatar: /img/avatar.jpg    # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /OJ-NoteBook/img/avatar.jpg    # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -112,8 +112,8 @@ page-mathjax: false
 
 # Friends
 friends: [
-  #  {
-  #      title: "",
-  #      href: ""
-  #  }
+    {
+        title: "猫猫兔的小屋",
+        href: "https://fengjinshan.me"
+    }
 ]
